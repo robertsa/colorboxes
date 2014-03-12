@@ -1,0 +1,33 @@
+.boxColumn {
+  float: left;
+}
+
+.box {
+  width: 40px;
+  height: 40px;
+  margin: 4px;
+  border: 1px solid #bbb;
+}
+
+#lastColor {
+  position: relative;
+  clear: left;
+  top: 15px;
+  margin: 4px;
+}
+
+#buttonContainer {
+  position: relative;
+  clear: left;
+  top: 20px;
+  margin-left: 3px;
+}
+
+button {
+  display: block;
+  margin: 3px 0px 3px 0px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+}
